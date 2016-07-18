@@ -1,4 +1,4 @@
-electron-iioengine 1.4.1
+electron-iioengine 1.4.0
 ==============
 Boilerplate for IIOEngine
 
